@@ -1,0 +1,1 @@
+You have to download the .dat file and (http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 ) and place in the same directory as the python script – or update the python script with the path to the download.
